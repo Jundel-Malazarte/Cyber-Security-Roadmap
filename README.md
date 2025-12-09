@@ -517,11 +517,11 @@ Embarking on a career in cybersecurity requires more than just technical know-ho
 
 ## Connect with Me
 - **GitHub**: [jundelmalazarte](https://github.com/jundel-malazarte)
-- **Facebook**: [Jundel Malazarte](https://www.facebook.com/Malazartejundel101101)
+- **Facebook**: [Jundel Malazarte](https://www.facebook.com/malazartejundel29)
 - **Email**: [jundelmalazarte@348gmail.com](mailto:jundelmalazarte348@gmail.com)
 
 ## 🕒 Last Updated
 - **Timezone**: Manila Standard Time (PST) - UTC+8
-- **Last Updated**: [Date] (e.g., November 17, 2024)
+- **Last Updated**: December 9, 2025
 
 Happy learning, and stay safe online! 🎉
